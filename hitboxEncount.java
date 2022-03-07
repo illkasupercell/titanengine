@@ -1,0 +1,144 @@
+switch (numberOfQuestionsToAnswer) {
+        case 0:
+            displayGrid1 = false;
+            displayGrid2 = false;
+            displayGrid3 = false;
+            displayGrid4 = false;
+            displayGrid5 = false;
+            displayGrid6 = false;
+            displayGrid7 = false;
+            displayGrid8 = false;
+            displayGrid9 = false;
+            displayGrid10 = false;
+            break;
+        case 1:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            break;
+        case 2:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            break;
+        case 3:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayAnsInputTextBox3 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            displayGrid3 = true;
+            break;
+        case 4:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayAnsInputTextBox3 = displayPreselectedAnsBox();
+            displayAnsInputTextBox4 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            displayGrid3 = true;
+            displayGrid4 = true;
+            break;
+        case 5:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayAnsInputTextBox3 = displayPreselectedAnsBox();
+            displayAnsInputTextBox4 = displayPreselectedAnsBox();
+            displayAnsInputTextBox5 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            displayGrid3 = true;
+            displayGrid4 = true;
+            displayGrid5 = true;
+            break;
+        case 6:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayAnsInputTextBox3 = displayPreselectedAnsBox();
+            displayAnsInputTextBox4 = displayPreselectedAnsBox();
+            displayAnsInputTextBox5 = displayPreselectedAnsBox();
+            displayAnsInputTextBox6 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            displayGrid3 = true;
+            displayGrid4 = true;
+            displayGrid5 = true;
+            displayGrid6 = true;
+            break;
+        case 7:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayAnsInputTextBox3 = displayPreselectedAnsBox();
+            displayAnsInputTextBox4 = displayPreselectedAnsBox();
+            displayAnsInputTextBox5 = displayPreselectedAnsBox();
+            displayAnsInputTextBox6 = displayPreselectedAnsBox();
+            displayAnsInputTextBox7 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            displayGrid3 = true;
+            displayGrid4 = true;
+            displayGrid5 = true;
+            displayGrid6 = true;
+            displayGrid7 = true;
+            break;
+        case 8:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayAnsInputTextBox3 = displayPreselectedAnsBox();
+            displayAnsInputTextBox4 = displayPreselectedAnsBox();
+            displayAnsInputTextBox5 = displayPreselectedAnsBox();
+            displayAnsInputTextBox6 = displayPreselectedAnsBox();
+            displayAnsInputTextBox7 = displayPreselectedAnsBox();
+            displayAnsInputTextBox8 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            displayGrid3 = true;
+            displayGrid4 = true;
+            displayGrid5 = true;
+            displayGrid6 = true;
+            displayGrid7 = true;
+            displayGrid8 = true;
+            break;
+        case 9:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayAnsInputTextBox3 = displayPreselectedAnsBox();
+            displayAnsInputTextBox4 = displayPreselectedAnsBox();
+            displayAnsInputTextBox5 = displayPreselectedAnsBox();
+            displayAnsInputTextBox6 = displayPreselectedAnsBox();
+            displayAnsInputTextBox7 = displayPreselectedAnsBox();
+            displayAnsInputTextBox8 = displayPreselectedAnsBox();
+            displayAnsInputTextBox9 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            displayGrid3 = true;
+            displayGrid4 = true;
+            displayGrid5 = true;
+            displayGrid6 = true;
+            displayGrid7 = true;
+            displayGrid8 = true;
+            displayGrid9 = true;
+            break;
+        case 10:
+            displayAnsInputTextBox1 = displayPreselectedAnsBox();
+            displayAnsInputTextBox2 = displayPreselectedAnsBox();
+            displayAnsInputTextBox3 = displayPreselectedAnsBox();
+            displayAnsInputTextBox4 = displayPreselectedAnsBox();
+            displayAnsInputTextBox5 = displayPreselectedAnsBox();
+            displayAnsInputTextBox6 = displayPreselectedAnsBox();
+            displayAnsInputTextBox7 = displayPreselectedAnsBox();
+            displayAnsInputTextBox8 = displayPreselectedAnsBox();
+            displayAnsInputTextBox9 = displayPreselectedAnsBox();
+            displayAnsInputTextBox10 = displayPreselectedAnsBox();
+            displayGrid1 = true;
+            displayGrid2 = true;
+            displayGrid3 = true;
+            displayGrid4 = true;
+            displayGrid5 = true;
+            displayGrid6 = true;
+            displayGrid7 = true;
+            displayGrid8 = true;
+            displayGrid9 = true;
+            displayGrid10 = true;
+            break;
+}
